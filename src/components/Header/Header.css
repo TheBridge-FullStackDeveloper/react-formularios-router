@@ -1,0 +1,10 @@
+.navContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #d38c8c;    
+    padding: 10px;
+}
+a{
+    all:unset;
+    cursor: pointer;
+}
